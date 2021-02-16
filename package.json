@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Jose Sanchez"
+	"author": "Jose Sanchez",
+	"description": "A web app that teaches people the ability to make meaningful contributions to software projects"
 }
