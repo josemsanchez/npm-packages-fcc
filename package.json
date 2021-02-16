@@ -7,10 +7,12 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"engines": {
+		"node": "10.16.0"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-
 	"author": "Jose Sanchez"
 }
