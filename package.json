@@ -16,5 +16,6 @@
 	},
 	"author": "Jose Sanchez",
 	"description": "A web app that teaches people the ability to make meaningful contributions to software projects",
-	"keywords": [ "freecodecamp", "packages", "NPM" ]
+	"keywords": [ "freecodecamp", "packages", "NPM" ],
+	"license": "BSD"
 }
