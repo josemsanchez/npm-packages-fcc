@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "^2.29.1"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -17,7 +17,11 @@
 	},
 	"author": "Jose Sanchez",
 	"description": "A web app that teaches people the ability to make meaningful contributions to software projects",
-	"keywords": [ "freecodecamp", "packages", "NPM" ],
+	"keywords": [
+		"freecodecamp",
+		"packages",
+		"NPM"
+	],
 	"license": "BSD",
 	"version": "1.0.0"
 }
